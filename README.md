@@ -55,6 +55,10 @@ M.S. Software Engineering, San José State University · Open to Software Engine
 
 Full case studies and live demos: **[hardik-ghori.vercel.app](https://hardik-ghori.vercel.app)**
 
+### Resume
+
+Experience, projects and skills in full: **[github.com/hardikghori/resume](https://github.com/hardikghori/resume)**. Generated from the same content file that builds the PDF, so the two never disagree.
+
 ### Also here
 
 * **[ChatApplication](https://github.com/hardikghori/ChatApplication)** · real time distributed chat over WebSockets, load tested for concurrent users
