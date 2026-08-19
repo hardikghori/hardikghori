@@ -17,6 +17,7 @@ M.S. Software Engineering, San José State University · Open to Software Engine
 
 ### 🚀 Featured work
 
+- **[jobbot](https://github.com/hardikghori/jobbot)** · API-first job application system in **Python + Playwright** — sweeps 11k job boards over HTTP, filters deterministically, fills each application in a real browser and verifies every value by reading it back. **721 tests.**
 - **BugLite — On-Device Pest Detection** · two-stage **YOLO + EfficientNet** running fully on-device in **Flutter** (dataset → training → quantization → deploy, no server round-trip).
 - **Industrial Diamond-Cut Vision System** · real-time **Python / OpenCV** inspection pipeline shipped to a production line — **+40% cut accuracy · −25% material waste · +20% throughput**.
 - **Dr. Stocks** · **LLM + RAG** assistant for natural-language stock analysis over live market data.
@@ -44,10 +45,8 @@ M.S. Software Engineering, San José State University · Open to Software Engine
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Blueything&theme=react&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blueything&theme=react&hide_border=true&layout=compact&langs_count=8)
-
-<img src="https://github.com/Blueything/Blueything/blob/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+![Stats](https://github-readme-stats.vercel.app/api?username=hardikghori&theme=react&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardikghori&theme=react&hide_border=true&layout=compact&langs_count=8)
 
 </div>
 
