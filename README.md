@@ -2,7 +2,7 @@
 
 # Hardik Ghori
 
-### Software Engineer · Applied AI and Computer Vision · San Francisco Bay Area
+### Software Engineer & Applied AI · San Francisco Bay Area
 
 **I take machine learning from research into production: real time computer vision, models that run on the device itself, and the full stack around them.**
 
