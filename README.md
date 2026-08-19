@@ -26,7 +26,15 @@ M.S. Software Engineering, San José State University · Open to Software Engine
 
 ### Featured work
 
-**BugLite, pest detection on the device itself.** Two stage YOLO and EfficientNet running fully offline inside a Flutter app. Dataset preparation, training, quantization and deployment, with no server round trip and no network dependency in the field.
+**BugLite, venomous species identification with no signal required.**
+
+A hiker or a farmer in rural North Carolina meets a snake or a spider and needs to know whether it is dangerous. There is no cell coverage where that happens, so the model runs on the phone.
+
+The hard part was never the model. It was the data. Images had to be collected and named per species automatically, and the long tail of species barely appeared at all, so those classes were filled out with targeted augmentation until every one had enough to train on. A one percent stratified sample of each species was labelled by hand to seed it.
+
+Detection and classification are split: a YOLOv8 detector finds the animal, an EfficientNet classifier names it, which keeps each model small enough to quantize. Input dimensions were cut for phone class hardware and the models exported through ONNX so one artefact serves both platforms inside a Flutter app, entirely offline. Accuracy landed at 87 percent.
+
+Thresholds were tuned against false negatives rather than headline accuracy, because the errors are not symmetric. Calling a harmless rat snake venomous wastes somebody's afternoon. Missing a copperhead is the failure that matters.
 
 **Industrial diamond cutting vision system.** Real time Python and OpenCV inspection shipped to a production laser line. Cut accuracy improved 40 percent, material waste fell 25 percent, throughput rose 20 percent.
 
