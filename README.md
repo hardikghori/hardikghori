@@ -53,6 +53,12 @@ Sweeps around 11,000 job boards over plain HTTP, drops roughly 99 percent of pos
 
 A form resolver classifies any field into a canonical class and answers about 85 percent of required fields with no model call, then verifies each one by reading the value back off the page. 724 tests. The submit click stays human, because that is the irreversible part and because a headless submit scores as a bot anyway.
 
+<div align="center">
+<img src="media/jobbot/demo.gif" width="820" alt="jobbot preflight checks, a sweep of 253,167 postings, and the test suite">
+</div>
+
+One real run: 21 preflight checks, 253,167 postings read from 8,988 boards, 250,834 dropped on freshness alone, 89 percent of form fields answered without a model, 724 tests green. The source stays private, since it holds the profile and the application history it was built around.
+
 ### Travel Planner
 
 [Repository](https://github.com/hardikghori/AI-trip-planner) · React, TypeScript, Supabase, Leaflet
