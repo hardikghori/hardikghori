@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hardik Ghori
+# Hi, I'm Hardik Ghori.
 
 ### Software Engineer & Applied AI · San Francisco Bay Area
 
