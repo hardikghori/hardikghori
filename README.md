@@ -21,16 +21,16 @@ M.S. Software Engineering, San José State University · Open to Software Engine
 
 ## Where I have worked
 
-**Quesify** · Machine Learning Engineer, Applied Computer Vision · Nov 2025 to present
+**Quesify** · Machine Learning Engineer, Applied Computer Vision · Nov 2025 to present<br>
 Shipped a two stage YOLOv8 and EfficientNet pipeline that runs entirely on the phone, built the dataset pipeline behind it, and wrote the FastAPI services and React front end around it.
 
-**San José State University** · Graduate Research Assistant, Applied AI and ML · Jan 2025 to Dec 2025
+**San José State University** · Graduate Research Assistant, Applied AI and ML · Jan 2025 to Dec 2025<br>
 Built Python pipelines over 500K records and cut preprocessing 35 percent, ran training and evaluation on GCP Vertex AI for an 18 percent accuracy gain, and designed LLM evaluation frameworks with A/B testing.
 
-**LTIMindtree** · Software Engineer · Jan 2022 to Aug 2022
+**LTIMindtree** · Software Engineer · Jan 2022 to Aug 2022<br>
 Delivered backend features and REST integrations in Java and Python across 8 endpoints, improving service reliability 25 percent, and moved analytics onto Kafka and Spark streaming instead of overnight batch loads.
 
-**Sparrow Softtech** · Software and Computer Vision Engineer · Aug 2020 to Dec 2021
+**Sparrow Softtech** · Software and Computer Vision Engineer · Aug 2020 to Dec 2021<br>
 Put a Python and OpenCV inspection algorithm on a production laser line: cut accuracy up 40 percent, material waste down 25 percent, throughput up 20 percent.
 
 Full detail, with every project and skill: **[github.com/hardikghori/resume](https://github.com/hardikghori/resume)**
